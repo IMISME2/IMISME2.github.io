@@ -1,2 +1,2 @@
-# IMISME2.github.io
+# Blog
 Blog
